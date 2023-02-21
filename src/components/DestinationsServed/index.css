@@ -1,0 +1,111 @@
+.destinations-cont{
+    background: rgba(26, 15, 145, 0.03);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 100px 60px;
+}
+
+.map-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.map-img{
+    width: 1300px;
+height: 700px;
+}
+
+.destination-heading{
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.destination-para{
+    font-size: 18px;
+    width: 40%;
+    text-align: center;
+}
+
+.destination-delhi{
+border-radius: 30px;
+background-color: 
+#472F91;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 10px;
+}
+
+.destination-img{
+    width: 200px;
+height: 120px;
+}
+
+.delhi-name{
+    color: #fff;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.delhi-cost{
+    color: #fff;
+    font-size: 13px;
+    margin-top: 0px;
+    
+}
+
+.destinations-list{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+
+.destination-others{
+        border-radius: 30px;
+        background-color: 
+        #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+}
+
+.others-name{
+    color: #472F91;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.others-cost{
+    color: #232323;
+    font-size: 13px;
+    margin-top: 0px;
+    
+}
+
+.arrow-left{
+    background-color: coral;
+    color: #ffffff;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    border-radius: 50%;
+}
+
+.arrow-right{
+    background-color: coral;
+    color: #ffffff;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 50px;
+    right: 30px;
+    border-radius: 50%;
+}

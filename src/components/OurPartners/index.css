@@ -1,0 +1,77 @@
+.partners-cont{
+    background-color: #472F91;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 70px 70px;
+}
+
+.partner-heading{
+    color: #ffffff;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.partners {
+    display: flex;
+}
+
+.partner{
+width: 220px;
+height: 130px;
+border-radius: 30px;
+background-color: #ffffff;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 25px;
+}
+
+
+.dhl{
+    width: 170px;
+height: 100px;
+}
+
+.fedex{
+    width: 160px;
+height: 65px;
+}
+
+.ups{
+    width: 100px;
+height: 120px;
+}
+
+.aramex{
+    width: 160px;
+height: 43px;
+}
+
+.usps{
+    width: 120px;
+height: 100px;
+}
+
+.left-arrow{
+    background-color: coral;
+    color: #ffffff;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 50%;
+}
+
+.right-arrow{
+    background-color: coral;
+    color: #ffffff;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 50px;
+    right: 45px;
+    border-radius: 50%;
+}

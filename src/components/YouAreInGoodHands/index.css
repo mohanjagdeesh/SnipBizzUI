@@ -1,0 +1,146 @@
+.h-cont{
+    background-color: 
+    #F4F6F8;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding: 50px 100px 30px;
+    justify-content: space-betweenaa;
+}
+
+.h-heading{
+    font-size: 50px;
+}
+
+.h-para{
+    font-size: 15px;
+}
+
+.help-heading{
+    color: #472F91;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.h-span{
+    font-weight: 700;
+    color: coral;
+}
+
+.stars-img{
+    height: 500px;
+    width: 400px;
+    margin: 30px 50px 25px 100px;
+}
+
+.good-hands-cont{
+    width: 45%;
+}
+
+.images-cont{
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.polo-cont{
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.05);
+border-radius: 10px;
+height: 85px;
+min-width: 115px;
+padding: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 20px;
+margin-bottom: 0px;
+
+}
+
+.e-bay-cont{
+    background: #FFFFFF;
+box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.05);
+border-radius: 10px;
+height: 85px;
+min-width: 250px;
+padding: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 20px;
+margin-bottom: 00px;
+}
+
+.us-polo{
+    height: 60px;
+    width: 55px;
+}
+
+.e-bay{
+    height: 35px;
+    width: 120px;
+}
+
+.tom-ford{
+    height: 60px;
+    width: 120px;
+}
+
+.calvin-klein{
+    height: 30px;
+    width: 150px;
+}
+
+.untunkit-cont{
+    background: #152F54;
+box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.05);
+border-radius: 10px;
+height: 85px;
+min-width: 115px;
+padding: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 20px;
+margin-bottom: 0px;
+
+}
+
+.untunkit{
+    height: 20px;
+    width: 100px;
+}
+
+.frye{
+    height: 80px;
+    width: 80px;
+}
+
+.apple{
+    height: 60px;
+    width: 45px;
+}
+
+.walmart-cont{
+    background: #0071CE;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    height: 85px;
+    min-width: 115px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.walmart{
+    height: 80px;
+    width: 95px;
+}
+
+.nord-strom{
+    height: 30px;
+    width: 210px;
+}

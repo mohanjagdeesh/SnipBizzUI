@@ -1,0 +1,99 @@
+.footer-container{
+    background-color: 
+    #40484E;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    
+}
+
+
+.list{
+    padding-left: 0px;
+    list-style: none;
+}
+
+.list-head{
+    font-weight: 700;
+    color: 
+    #F57921;
+    margin-bottom: 0px;
+}
+
+.h-rule{
+width: 175px;
+height: 0px;
+border: 1px solid #596F7B;
+margin-left: 0px;
+margin-bottom: 0px;
+}
+
+.list-items{
+    color: #fff;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.footer-blog{
+    display: flex;
+    flex-direction: column;
+    width: 22%;
+}
+.paymentSection{
+    display: flex;
+    justify-content: space-between;
+}
+
+.payment-types{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.payment-img{
+    width: 70%;
+}
+
+
+.foot-cont{
+    background-color: #40484E;
+    padding-bottom: 10px;
+}
+
+.h-rule-bottom{
+    border: 1px solid #596F7B;
+    height: 0px;
+}
+
+.copy-right{
+    font-size: 10px;
+    color: 
+    #9CADB7;
+    text-align: center;
+}
+.image{
+    height: auto;
+    width:60% ;
+}
+
+.data-types{
+    display: flex;
+    justify-content: space-between;
+}
+
+.share{
+    display: flex;
+    align-items: center;
+}
+
+.share-text{
+    font-weight: 500;
+    color: #F57921;
+    font-size: 14px;
+}
+
+.share-icon{
+    color: #fff;
+    margin: 5px;
+}
